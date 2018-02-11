@@ -5,6 +5,9 @@ site-description: біг про альпінізм, біг та подорожі
 description: >
   біг про альпінізм, біг та подорожі
 
+# stuff before 
+baseurl: /jamming-blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #email_username: your-email@domain.com #Your email address
