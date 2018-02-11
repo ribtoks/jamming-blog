@@ -1,9 +1,10 @@
 title: 'Jamming'
-site-description: біг про альпінізм, біг та подорожі
+site-description: >
+  блог про альпінізм, біг та подорожі
 #email: your-email@domain.com
 
-description: >
-  біг про альпінізм, біг та подорожі
+#description: >
+#  блог про альпінізм, біг та подорожі
 
 # stuff before 
 baseurl: /jamming-blog
@@ -29,6 +30,5 @@ paginate: 5 #Total Number of Post in each Page
 
 gems: [jekyll-paginate, jekyll-feed]
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]

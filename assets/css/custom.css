@@ -127,3 +127,7 @@ a{
     color: #33C3F0; }
 
 }
+
+div.site-title img {
+    height: 50px;
+}
