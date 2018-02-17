@@ -17,7 +17,9 @@ twitter_username:  ribtoks
 your_name: 'Taras Kushnir' #Your Name for About
 about_yourself: "" # Brief description about yourself
 
-copyright_name: Jamming #Copyright 
+copyright_name: Jamming #Copyright
+
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
@@ -28,7 +30,9 @@ destination: _site
 
 paginate: 5 #Total Number of Post in each Page
 
-gems: [jekyll-paginate, jekyll-feed]
+permalink: /:year/:title
+
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]

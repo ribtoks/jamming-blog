@@ -11,6 +11,11 @@ layout: page
                 Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}
               </div>
             </header>
+
+            {% if page.feature %}
+            <img src="{{ site.baseurl }}/assets/images/{{ page.feature }}" class="u-full-width"/>
+            {% endif %}
+            
             <article class="post-article">
              {{ content }} 
             </article>
@@ -18,9 +23,15 @@ layout: page
 <hr> 
 <div class="pager">
     {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left" title="{{page.previous.title}}">&larr; Previous</a>
+    <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left" title="{{page.previous.title}}">&larr; Туди</a>
     {% endif %}
     {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right" title="{{page.next.title}}">Next &rarr;</a>
+    <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right" title="{{page.next.title}}">Сюди &rarr;</a>
     {% endif %}
 </div>
+
+{% include related-posts.html %}
+<hr>
+{% if site.data.settings.disqus.comments %}
+  {% include disqus.html %}
+{% endif %}

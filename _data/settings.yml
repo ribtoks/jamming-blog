@@ -1,0 +1,6 @@
+related_posts: 'Вам може також сподобатись:'
+
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'jamming-com-ua'

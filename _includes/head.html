@@ -7,4 +7,13 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skeleton.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
+
+    <!-- Use Atom -->
+    {% feed_meta %}
+    
+    <!-- Google Analytics -->
+    {% include google-analytics.html %}
+
+    <!-- Use Jekyll SEO plugin -->
+    {% seo %}
 </head>

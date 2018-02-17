@@ -1,0 +1,21 @@
+---
+layout: post
+title: Хороша стаття про травми пальців на UKC
+date: 2014-05-16 09:50:33.000000000 +03:00
+categories:
+- Medicine
+- RockClimbing
+- Training
+tags:
+- зв'язки
+- палець
+- пальців
+- скелелазіння
+- суглоб
+- травми
+author: 'Taras Kushnir'
+---
+
+[Хороша стаття про травми пальців на UKC](http://www.ukclimbing.com/articles/page.php?id=6193)
+
+Про надриви зв'язок, напухання суглобів, реабілітацію та обмотування
