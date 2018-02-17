@@ -1,5 +1,7 @@
 related_posts: 'Вам може також сподобатись:'
 
+google-ID: 'UA-10412407-12'
+
 # Change to true for Disqus comments
 disqus:
   comments: true
