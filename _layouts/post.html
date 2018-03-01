@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
 
 <div class="post-preview">
             <header class="post-header">
@@ -20,6 +21,10 @@ layout: page
              {{ content }} 
             </article>
 </div>
+<hr> 
+{% unless page.nocoffee %}
+<div class="coffeecontainer"><div style="float: left;">Сподобався пост?</div><div style="float: right;">Підтримайте блог!</div><div class="mecoffee">{% include buymeacoffee.html %}</div></div>
+{% endunless %}
 <hr> 
 <div class="pager">
     {% if page.previous.url %}
