@@ -199,8 +199,10 @@ Canon 77D - це просто камера 800D, яку спробували в�
 
 #### Корисні посилання
 
+* [Найкорисніша стаття про Fujifilm X-T2/0](https://outlier-v.livejournal.com/197571.html)
 * [Огляд Olympus](https://kroupski.pro/reviews/mzd-14-150-ii/p4-resolution/)
 * [Огляд Sony A7 II](http://radojuva.com/2016/02/sony-a7ii-review/) від Radojuva
 * [Ще огляд Sony A7 II](http://photar.ru/chem-ploxi-bezzerkalki-sony/) - проблеми з розміром
 * [Порівняння Sony A7 II та Olympus E-M5](http://olympus.ourlife.ru/forum/topic/34652-vybor-mezhdu-sony-alpha-7ii-i-olympus-om-d-e-m5-mark-ii/) - в подібних темах на форумах можна прочитати про проблеми обох систем
 * [Відео тест Sony, Canon, Olympus](http://treehel.livejournal.com/331975.html)
+* [Як краще вибирати фототехніку](http://dvdm.livejournal.com/435185.html)
