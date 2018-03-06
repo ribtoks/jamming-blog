@@ -47,4 +47,4 @@ feature: 'posts/2016/09/5DM38111_3_DxO_scaled.jpg'
 
 Під час поїздки я знімав відео, які, по приїзді, змонтував в 3-хвилинний ролик, який можна переглянути нижче.
 
-https://youtu.be/tKJjwPkWAJM
+{% include youtube-video.html id="tKJjwPkWAJM" %}

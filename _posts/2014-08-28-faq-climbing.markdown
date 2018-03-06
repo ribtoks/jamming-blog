@@ -113,11 +113,11 @@ feature: 'posts/2014/08/img_0010-e1409201368474.jpg'
 
 Перегляньте відео, де найкращі скелелази світу працюють над своїми проектами. Ви дізнаєтесь, як виглядають тяжкі та граціозні рухи. Наприклад, La Dura Dura 9b+
 
-https://www.youtube.com/watch?v=V1P97VVt6_k
+{% include youtube-video.html id="V1P97VVt6_k" %}
 
 або болдерінги Nalle Hukkataival'а у Вегасі.
 
-https://www.youtube.com/watch?v=EzeIFpJuDRo
+{% include youtube-video.html id="EzeIFpJuDRo" %}
 
 Ці скелелази не добились своїх неймовірних результатів за 1 місяць чи, навіть, за рік. За їхніми пролазами стоять роки тяжких тренувань.
 
