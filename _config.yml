@@ -30,7 +30,7 @@ paginate: 5 #Total Number of Post in each Page
 permalink: /:year/:title
 # :output_ext
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
