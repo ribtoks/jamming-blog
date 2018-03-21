@@ -1,10 +1,5 @@
 title: 'Jamming'
-site-description: >
-  блог про альпінізм, біг та подорожі
-#email: your-email@domain.com
-
-#description: >
-#  блог про альпінізм, біг та подорожі
+description: блог про альпінізм, біг та подорожі
 
 # stuff before 
 baseurl: ""
@@ -12,7 +7,10 @@ baseurl: ""
 url: "http://jamming.com.ua" # the base hostname & protocol for your site, e.g. http://example.com
 
 #email_username: your-email@domain.com #Your email address
-twitter_username:  ribtoks
+twitter:
+  username: ribtoks
+
+lang: uk_UA
 
 copyright_name: Jamming #Copyright
 
