@@ -3,6 +3,7 @@ layout: post
 title: Арко. Коли скелелази потрапляють в рай.
 date: 2017-04-28 20:55:04.000000000 +03:00
 categories:
+- Arco
 - ClimbingTrips
 - RockClimbing
 - Travel
