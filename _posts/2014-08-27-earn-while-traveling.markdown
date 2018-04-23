@@ -3,7 +3,6 @@ layout: post
 title: 'Як заробити в інтернеті на подорожах: історія першої тисячі доларів у мікростоках'
 date: 2014-08-27 14:06:12.000000000 +03:00
 categories:
-- Moutaineering
 - Photography
 tags:
 - 123rf

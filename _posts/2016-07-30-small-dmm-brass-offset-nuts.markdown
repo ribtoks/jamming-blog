@@ -4,7 +4,6 @@ title: Обережно із DMM Brass Offset nuts
 date: 2016-07-30 14:01:56.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - brass
 - dmm

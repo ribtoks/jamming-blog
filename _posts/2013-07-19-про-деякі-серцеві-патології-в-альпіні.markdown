@@ -4,7 +4,7 @@ title: Про деякі серцеві патології в альпініст
 date: 2013-07-19 22:12:56.000000000 +03:00
 categories:
 - Medicine
-- Moutaineering
+- Mountaineering
 tags:
 - альпінізм
 - аритмія

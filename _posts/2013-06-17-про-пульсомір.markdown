@@ -4,7 +4,6 @@ title: Про пульсоміри
 date: 2013-06-17 22:19:58.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - polar
 - suunto

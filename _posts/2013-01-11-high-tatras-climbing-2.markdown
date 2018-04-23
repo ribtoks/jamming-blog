@@ -5,7 +5,7 @@ date: 2013-01-11 22:47:15.000000000 +02:00
 categories:
 - ClimbingTrips
 - Ice climbing
-- Moutaineering
+- Mountaineering
 - Slovakia
 tags:
 - fuga

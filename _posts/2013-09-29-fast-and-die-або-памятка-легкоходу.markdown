@@ -4,7 +4,6 @@ title: Fast and Die або Пам'ятка легкоходу
 date: 2013-09-29 23:27:44.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - and
 - die

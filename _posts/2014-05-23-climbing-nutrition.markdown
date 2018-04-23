@@ -4,7 +4,6 @@ title: Дієтологія для скелелаза
 date: 2014-05-23 00:09:18.000000000 +03:00
 categories:
 - Food
-- Moutaineering
 - Training
 tags:
 - їжа

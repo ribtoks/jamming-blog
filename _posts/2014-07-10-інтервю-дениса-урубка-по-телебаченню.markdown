@@ -3,7 +3,6 @@ layout: post
 title: Інтерв'ю Дениса Урубка по телебаченню (про Канченджангу)
 date: 2014-07-10 10:39:54.000000000 +03:00
 categories:
-- Moutaineering
 - Philosophy
 tags:
 - інтерв'ю

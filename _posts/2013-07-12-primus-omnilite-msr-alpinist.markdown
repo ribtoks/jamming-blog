@@ -4,7 +4,6 @@ title: Перше тестування Primus Omnilite Ti та MSR Alpinist 2 Po
 date: 2013-07-12 20:26:12.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - alpinist
 - msr

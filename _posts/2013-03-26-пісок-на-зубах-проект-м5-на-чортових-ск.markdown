@@ -4,8 +4,6 @@ title: '"Пісок на зубах" [проект] М5 на Чортових с
 date: 2013-03-26 21:02:48.000000000 +02:00
 categories:
 - Drytooling
-- Ice climbing
-- Moutaineering
 tags:
 - Drytooling
 - lviv

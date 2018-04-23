@@ -4,7 +4,6 @@ title: Як добратись на скелі Довбуша
 date: 2013-02-12 21:20:15.000000000 +02:00
 categories:
 - ClimbingTrips
-- Moutaineering
 tags:
 - болехів
 - львів

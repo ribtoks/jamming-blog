@@ -4,7 +4,7 @@ title: Фотоконкурс від альптабору "Безенги"
 date: 2015-04-28 20:22:21.000000000 +03:00
 categories:
 - Bezengi
-- Moutaineering
+- Mountaineering
 - Photography
 - Travel
 tags:

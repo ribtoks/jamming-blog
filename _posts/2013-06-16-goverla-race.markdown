@@ -3,8 +3,8 @@ layout: post
 title: Сильним - не треба, слабакам - не поможе або Враження з Goverla Race
 date: 2013-06-16 22:41:07.000000000 +03:00
 categories:
+- Running
 - Carpathians
-- Moutaineering
 tags:
 - carpathians
 - goverla

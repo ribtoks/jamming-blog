@@ -3,7 +3,6 @@ layout: post
 title: Multum in parvo
 date: 2014-06-12 15:43:59.000000000 +03:00
 categories:
-- Moutaineering
 - Philosophy
 - Training
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Гайдбук по Скелях Довбуша
 date: 2013-07-25 23:00:18.000000000 +03:00
 categories:
-- Moutaineering
+- RockClimbing
 tags:
 - гайд
 - гайдбук

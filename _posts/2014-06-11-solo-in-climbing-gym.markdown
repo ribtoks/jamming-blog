@@ -4,7 +4,6 @@ title: Соло лазіння на стенді з верхньою страх�
 date: 2014-06-11 12:32:08.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 - RockClimbing
 - Training
 tags:

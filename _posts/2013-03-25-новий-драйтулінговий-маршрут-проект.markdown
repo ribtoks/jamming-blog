@@ -6,7 +6,7 @@ categories:
 - ClimbingTrips
 - Drytooling
 - Ice climbing
-- Moutaineering
+- Mountaineering
 tags:
 - Drytooling
 - lviv

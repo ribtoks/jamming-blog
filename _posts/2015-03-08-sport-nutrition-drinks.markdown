@@ -3,7 +3,7 @@ layout: post
 title: Спортивне харчування. Напої для скелелазів
 date: 2015-03-08 01:18:58.000000000 +02:00
 categories:
-- Moutaineering
+- Food
 tags:
 - sis
 - додатки

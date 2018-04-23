@@ -3,7 +3,7 @@ layout: post
 title: Сайт з дослідженнями по альпінізму
 date: 2013-07-22 20:06:03.000000000 +03:00
 categories:
-- Moutaineering
+- Mountaineering
 tags:
 - rescue
 - strike

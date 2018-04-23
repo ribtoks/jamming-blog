@@ -3,7 +3,6 @@ layout: post
 title: Про події під Нанга-Парбат
 date: 2013-06-25 20:17:39.000000000 +03:00
 categories:
-- Moutaineering
 - Philosophy
 tags:
 - альпінізм

@@ -5,7 +5,6 @@ date: 2014-05-12 23:26:18.000000000 +03:00
 categories:
 - ClimbingTrips
 - Gear
-- Moutaineering
 tags:
 - double rainbow
 - msr reactor

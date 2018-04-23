@@ -3,7 +3,7 @@ layout: post
 title: Блог Lviv to Evolene. Анонс
 date: 2014-07-24 12:24:20.000000000 +03:00
 categories:
-- Moutaineering
+- Mountaineering
 tags:
 - evolene
 - блог

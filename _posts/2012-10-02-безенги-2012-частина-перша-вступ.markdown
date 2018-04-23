@@ -6,7 +6,7 @@ categories:
 - Bezengi
 - Caucasus
 - ClimbingTrips
-- Moutaineering
+- Mountaineering
 tags:
 - альпінізм
 - безенги
@@ -14,6 +14,7 @@ tags:
 - клуб
 - школа альпінізму
 author: 'Taras Kushnir'
+published: false
 ---
 
 ![]({{ site.baseurl }}/assets/images/posts/2012/10/IMG_1985.jpg)

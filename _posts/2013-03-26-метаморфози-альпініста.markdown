@@ -3,7 +3,6 @@ layout: post
 title: Метаморфози Альпініста
 date: 2013-03-26 20:04:30.000000000 +02:00
 categories:
-- Moutaineering
 - Philosophy
 tags:
 - альпінізм

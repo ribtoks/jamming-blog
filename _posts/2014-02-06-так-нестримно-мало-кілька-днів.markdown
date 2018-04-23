@@ -3,7 +3,6 @@ layout: post
 title: Так нестримно мало - кілька днів...
 date: 2014-02-06 09:55:41.000000000 +02:00
 categories:
-- Moutaineering
 - Personal
 - Philosophy
 tags:

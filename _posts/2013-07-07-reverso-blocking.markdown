@@ -4,7 +4,6 @@ title: Блокування реверсо
 date: 2013-07-07 20:53:30.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - reverso
 - tie off

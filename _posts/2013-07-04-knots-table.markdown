@@ -4,7 +4,6 @@ title: Таблиця надійності вузлів
 date: 2013-07-04 23:02:07.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - булінь
 - вісімка

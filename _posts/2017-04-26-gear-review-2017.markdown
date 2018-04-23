@@ -4,8 +4,6 @@ title: Короткий огляд нового спорядження за 2016
 date: 2017-04-26 19:26:39.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
-- RockClimbing
 tags:
 - aperture
 - boot bananas

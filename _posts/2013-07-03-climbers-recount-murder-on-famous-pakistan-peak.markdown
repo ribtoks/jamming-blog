@@ -3,7 +3,7 @@ layout: post
 title: Climbers Recount Murder on Famous Pakistan Peak
 date: 2013-07-03 23:36:34.000000000 +03:00
 categories:
-- Moutaineering
+- Mountaineering
 tags:
 - інтерв'ю
 - нанга-парбат

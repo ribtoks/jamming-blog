@@ -4,7 +4,6 @@ title: Короткий огляд використаного споряджен
 date: 2014-08-25 08:21:09.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - DealExtreme
 - Expedition Duffel

@@ -4,7 +4,7 @@ title: Підсумки літнього альпсезону 2014
 date: 2014-11-04 10:18:57.000000000 +02:00
 categories:
 - Alps
-- Moutaineering
+- Mountaineering
 tags:
 - альпінізм
 - альпи

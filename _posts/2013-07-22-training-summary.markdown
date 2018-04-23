@@ -3,8 +3,8 @@ layout: post
 title: Звіт по тренуваннях за 6 місяців 2013 року (статистика)
 date: 2013-07-22 20:59:45.000000000 +03:00
 categories:
-- Moutaineering
 - Training
+- RockClimbing
 tags:
 - іто
 - болдерінг

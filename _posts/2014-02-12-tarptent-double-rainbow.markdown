@@ -4,7 +4,6 @@ title: Перше враження від Tarptent Double Rainbow
 date: 2014-02-12 00:00:19.000000000 +02:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - double rainbow
 - tarptent

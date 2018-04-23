@@ -3,11 +3,7 @@ layout: post
 title: 'Crux AK 47 X: перші враження або вибір штурмового рюкзака'
 date: 2013-03-21 09:17:12.000000000 +02:00
 categories:
-- Bezengi
-- Caucasus
 - Gear
-- Ice climbing
-- Moutaineering
 tags:
 - '47'
 - ak

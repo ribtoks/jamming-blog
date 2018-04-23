@@ -6,7 +6,7 @@ categories:
 - Bezengi
 - Caucasus
 - ClimbingTrips
-- Moutaineering
+- Mountaineering
 tags:
 - '2013'
 - безенги
@@ -14,6 +14,7 @@ tags:
 - кавказ
 - фото
 author: 'Taras Kushnir'
+published: false
 ---
 <div style="padding: 0; overflow: hidden; margin: 0; width: 500px;"><a style="text-decoration: none;" title="img_0001" href="http://www.flickr.com/photos/97257980@N05/9594492766/in/set-72157635226919429/"><img style="padding: 0 10px 10px 0; width: 75px; height: 75px; float: left;" src="{{ site.baseurl }}/assets/9594492766_970e7e1754_s.jpg" alt="img_0001" /></a><a style="text-decoration: none;" title="img_0002" href="http://www.flickr.com/photos/97257980@N05/9594495920/in/set-72157635226919429/"><img style="padding: 0 10px 10px 0; width: 75px; height: 75px; float: left;" src="{{ site.baseurl }}/assets/9594495920_8dc557c9cb_s.jpg" alt="img_0002" /></a><a style="text-decoration: none;" title="img_0005" href="http://www.flickr.com/photos/97257980@N05/9594499120/in/set-72157635226919429/"><img style="padding: 0 10px 10px 0; width: 75px; height: 75px; float: left;" src="{{ site.baseurl }}/assets/9594499120_b320f0fe58_s.jpg" alt="img_0005" /></a><a style="text-decoration: none;" title="img_0007" href="http://www.flickr.com/photos/97257980@N05/9591705281/in/set-72157635226919429/"><img style="padding: 0 10px 10px 0; width: 75px; height: 75px; float: left;" src="{{ site.baseurl }}/assets/9591705281_9b72cdda31_s.jpg" alt="img_0007" /></a><a style="text-decoration: none;" title="img_0009" href="http://www.flickr.com/photos/97257980@N05/9594503402/in/set-72157635226919429/"><img style="padding: 0 0 10px; width: 75px; height: 75px; float: left;" src="{{ site.baseurl }}/assets/9594503402_d94eaff64b_s.jpg" alt="img_0009" /></a>
 

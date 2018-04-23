@@ -5,7 +5,7 @@ date: 2014-10-28 12:21:36.000000000 +02:00
 categories:
 - Carpathians
 - ClimbingTrips
-- Moutaineering
+- Hiking
 tags:
 - веснарка
 - говерла

@@ -6,7 +6,6 @@ categories:
 - Drytooling
 - Gear
 - Ice climbing
-- Moutaineering
 tags:
 - BD
 - Black Diamond

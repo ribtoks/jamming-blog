@@ -4,7 +4,7 @@ title: Короткий огляд використаного споряджен
 date: 2013-09-24 22:39:08.000000000 +03:00
 categories:
 - Gear
-- Moutaineering
+- Mountaineering
 tags:
 - '47'
 - ak

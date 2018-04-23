@@ -4,7 +4,6 @@ title: Перше враження від Mountain Equipment Morpheus Jacket
 date: 2013-10-29 22:28:10.000000000 +02:00
 categories:
 - Gear
-- Moutaineering
 tags:
 - equipment
 - fail

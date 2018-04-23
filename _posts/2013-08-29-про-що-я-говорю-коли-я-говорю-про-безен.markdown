@@ -6,7 +6,7 @@ categories:
 - Bezengi
 - Caucasus
 - ClimbingTrips
-- Moutaineering
+- Mountaineering
 tags:
 - '2013'
 - sis

@@ -6,7 +6,7 @@ categories:
 - Caucasus
 - ClimbingTrips
 - Elbrus
-- Moutaineering
+- Mountaineering
 tags:
 - '5642'
 - альпінізм

@@ -3,9 +3,7 @@ layout: post
 title: Pebble smartwatch як годинник для атлетів
 date: 2014-04-20 22:17:23.000000000 +03:00
 categories:
-- Moutaineering
-- Running
-- Training
+- Gear
 tags:
 - climbing
 - pebble

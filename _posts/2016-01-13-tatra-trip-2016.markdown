@@ -5,7 +5,7 @@ date: 2016-01-13 22:42:57.000000000 +02:00
 categories:
 - ClimbingTrips
 - Ice climbing
-- Moutaineering
+- Mountaineering
 - Slovakia
 tags:
 - climbing
