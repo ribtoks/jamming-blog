@@ -12,6 +12,7 @@ tags:
 - таллінн
 author: 'Taras Kushnir'
 feature: 'posts/2015/07/chamonix.jpg'
+published: false
 ---
 
 <blockquote>
