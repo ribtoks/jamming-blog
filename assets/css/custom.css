@@ -28,6 +28,10 @@ a{
     font-size: 3rem;
     font-weight: 700;
 }
+.post-tags {
+    margin-left:auto;
+    margin-right:auto;
+}
 .pre-article{
     text-align: justify;
     padding: 1rem;
