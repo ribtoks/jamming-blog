@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: page
 ---
 
-<ul>{% for tag in site.tags %} 
-    <li><a href="/tag/{{ tag[0] }}">{{ tag[0] }}</a> <span>{{ tag[1].size }}</span></li>{% endfor %}
-</ul>
+<div class="post-preview tags-index">    
+    {% assign sorted_tags_by_count = site.tags | sort_tags_by_posts_count %}
+    {% for tag in sorted_tags_by_count %} 
+    <div><a href="/tag/{{ tag[0] }}"><code>{{ tag[0] }}&nbsp;&nbsp;({{tag[1]}})</code></a>&nbsp;</div>
+    {% endfor %}
+</div>

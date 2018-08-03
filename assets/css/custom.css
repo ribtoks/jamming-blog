@@ -31,6 +31,14 @@ a{
 .post-tags {
     margin-left:auto;
     margin-right:auto;
+    font-size: small;
+}
+.tags-header {
+    text-align: center;    
+}
+.tags-index {
+    display: flex;
+    flex-wrap: wrap;
 }
 .pre-article{
     text-align: justify;
