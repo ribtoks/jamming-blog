@@ -5,18 +5,10 @@ date: 2014-11-03 12:36:39.000000000 +02:00
 categories:
 - Photography
 tags:
-- 123rf
-- depositphotos
-- fotolia
-- property release
-- shutterstock
 - заробіток
-- картинки
 - мікростоки
-- реферальні
-- реферальний
-- телефон
-- фото
+- фотографія
+- інтернет
 author: 'Taras Kushnir'
 ---
 

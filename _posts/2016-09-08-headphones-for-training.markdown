@@ -6,19 +6,11 @@ categories:
 - Gear
 - Training
 tags:
-- airpods
-- apple
-- bluetooth
-- headphones
-- ipod
-- shuffle
-- sony
-- walkman
 - біг
 - навушники
 - огляд
-- порівняння
 - скелелазіння
+- спорядження
 author: 'Taras Kushnir'
 feature: 'posts/2016/08/sport_headphones.jpg'
 ---

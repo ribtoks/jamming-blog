@@ -7,18 +7,11 @@ categories:
 - Training
 - Стенди
 tags:
-- campus board
-- climb club
-- finger board
-- адреса
 - болдерінг
-- лазаренка
 - львів
 - прес
 - скелелазіння
-- стан
 - стенд
-- турнік
 author: 'Taras Kushnir'
 feature: 'posts/2014/09/DSC_0589_08_43.jpg'
 ---

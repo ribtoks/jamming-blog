@@ -7,10 +7,9 @@ categories:
 - Training
 - Стенди
 tags:
-- '2014'
-- rock test
 - змагання
 - тернопіль
+- болдерінг
 author: 'Taras Kushnir'
 ---
 

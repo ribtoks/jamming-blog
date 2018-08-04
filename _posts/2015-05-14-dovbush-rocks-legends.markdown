@@ -6,9 +6,8 @@ categories:
 - Humour
 - RockClimbing
 tags:
-- bullshit
 - легенди
-- скелі Довбуша
+- скелі довбуша
 author: 'Taras Kushnir'
 ---
 

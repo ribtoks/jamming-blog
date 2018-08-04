@@ -5,8 +5,8 @@ date: 2014-12-10 17:52:14.000000000 +02:00
 categories:
 - Running
 tags:
-- анонімні бігуни
 - біг
+- філософія
 author: 'Taras Kushnir'
 ---
 

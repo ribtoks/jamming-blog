@@ -7,7 +7,6 @@ tags:
 - jamming
 - блог
 - річниця
-- ювілей
 author: 'Taras Kushnir'
 ---
 

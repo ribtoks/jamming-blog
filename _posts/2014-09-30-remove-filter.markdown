@@ -5,9 +5,7 @@ date: 2014-09-30 13:06:52.000000000 +03:00
 categories:
 - Photography
 tags:
-- заклинив
 - об'єктив
-- рішення
 - фільтр
 - фотоапарат
 author: 'Taras Kushnir'

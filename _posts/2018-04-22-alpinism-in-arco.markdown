@@ -7,10 +7,10 @@ categories:
 - RockClimbing
 - Mountaineering
 tags:
-- arco
-- caldwell
-- grisu
-- capacity
+- арко
+- італія
+- тренування
+- місткість
 author: 'Taras Kushnir'
 feature: 'posts/2018/04/monte-colodri-arco.jpg'
 ---

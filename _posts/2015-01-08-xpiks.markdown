@@ -5,12 +5,10 @@ date: 2015-01-08 01:09:04.000000000 +02:00
 categories:
 - Photography
 tags:
-- keyword
-- manual
 - xpiks
 - інструкція
-- використання
-- допомога
+- фотографія
+- мікростоки
 author: 'Taras Kushnir'
 feature: 'posts/2015/09/xpiks-qt-imported.jpg'
 ---

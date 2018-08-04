@@ -7,10 +7,8 @@ categories:
 - Training
 tags:
 - eva lopez
-- l-sit
 - trx
 - естонія
-- планка
 - прес
 - траверс
 - тренування

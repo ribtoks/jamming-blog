@@ -7,14 +7,10 @@ categories:
 - RockClimbing
 - Training
 tags:
-- ct roll'n'lock
-- kong duck
-- petzl micro traxion
 - solo
-- верхня страховка
 - самостраховка
-- соло
 - стенд
+- тренування
 author: 'Taras Kushnir'
 feature: 'posts/2014/06/ct_rollnlock.jpg'
 ---

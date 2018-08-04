@@ -5,8 +5,6 @@ date: 2013-03-26 21:02:48.000000000 +02:00
 categories:
 - Drytooling
 tags:
-- Drytooling
-- lviv
 - драйтулінг
 - львів
 - чортові скелі

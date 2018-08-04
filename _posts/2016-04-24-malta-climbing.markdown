@@ -9,18 +9,9 @@ categories:
 tags:
 - deep water solo
 - dws
-- gozo
-- malta
-- каньйон
 - мальта
-- осетинський
-- острів
-- пиріг
 - скелелазіння
-- скеля
 - тренування
-- шнурок
-- ґозо
 author: 'Taras Kushnir'
 ---
 

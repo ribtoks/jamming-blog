@@ -9,7 +9,7 @@ tags:
 - goverla race
 - альпінізм
 - гори
-- жаль
+- біг
 - скелелазіння
 - тренування
 author: 'Taras Kushnir'

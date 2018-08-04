@@ -5,14 +5,10 @@ date: 2014-08-27 14:06:12.000000000 +03:00
 categories:
 - Photography
 tags:
-- 123rf
-- depositphotos
-- dreamstime
-- shutterstock
 - інтернет
 - заробіток
 - мікростоки
-- подорожі
+- фотографія
 author: 'Taras Kushnir'
 feature: 'posts/2014/08/earning.png'
 ---

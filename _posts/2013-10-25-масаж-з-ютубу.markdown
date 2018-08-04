@@ -7,11 +7,8 @@ categories:
 - Medicine
 tags:
 - біль
-- внизу
-- мануальна
 - масаж
-- масажист. йога
-- спина
+- здоров'я
 - терапія
 author: 'Taras Kushnir'
 ---

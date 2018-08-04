@@ -9,6 +9,7 @@ tags:
 - драйтулінг
 - льодолазіння
 - тренування
+- вправи
 author: 'Taras Kushnir'
 feature: 'posts/2015/03/CameraZOOM-20121127243758382.jpg'
 ---

@@ -8,8 +8,7 @@ categories:
 tags:
 - деградація
 - лінь
-- фотографи
-- художники
+- фотографія
 author: 'Taras Kushnir'
 ---
 

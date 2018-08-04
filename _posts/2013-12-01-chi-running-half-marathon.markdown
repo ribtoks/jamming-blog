@@ -6,15 +6,11 @@ categories:
 - Running
 - Training
 tags:
-- science in sport
 - sis
 - біг
-- біг з носка
 - вуглеводи
 - півмарафон
-- система
 - суперкомпенсація
-- схема
 - тренування
 - ци-біг
 author: 'Taras Kushnir'

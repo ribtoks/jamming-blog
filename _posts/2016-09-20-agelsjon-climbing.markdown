@@ -8,17 +8,9 @@ categories:
 - Travel
 tags:
 - agelsjon
-- brass
-- crack
-- dmm
-- katana
-- lake
-- nuts
-- offset
-- stockholm
-- sweden
 - стокгольм
 - швеція
+- скелелазіння
 author: 'Taras Kushnir'
 feature: 'posts/2016/09/5DM38111_3_DxO_scaled.jpg'
 ---

@@ -8,11 +8,11 @@ categories:
 - Стенди
 tags:
 - boulderring
-- isatis
 - болдерінг
 - змагання
 - фінляндія
 - хельсинки
+- стенд
 author: 'Taras Kushnir'
 feature: 'posts/2015/11/isatis_boulderliiga.jpg'
 ---

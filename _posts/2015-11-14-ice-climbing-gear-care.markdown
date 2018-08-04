@@ -7,17 +7,10 @@ categories:
 - Gear
 - Ice climbing
 tags:
-- BD
-- Black Diamond
-- crampons
-- Cyborg
-- nomic
-- Petzl
-- заточка
 - кішки
 - льодобур
-- правка
-- тяпки
+- спорядження
+- догляд
 author: 'Taras Kushnir'
 feature: 'posts/2015/11/ice-climbing-gear.jpg'
 ---

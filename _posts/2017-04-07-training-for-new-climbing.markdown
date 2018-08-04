@@ -7,12 +7,10 @@ categories:
 - Training
 - Translation
 tags:
-- 4х4
 - болдерінг
-- планування
+- стратегія
 - скелелазіння
 - тренування
-- цикл
 author: 'Taras Kushnir'
 feature: 'posts/2017/04/training-for-climbing.jpg'
 ---

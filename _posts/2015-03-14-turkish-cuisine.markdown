@@ -7,10 +7,8 @@ categories:
 - Travel
 tags:
 - лаваш
-- налисники
 - рецепт
-- страви
-- турецькі
+- їжа
 author: 'Taras Kushnir'
 feature: 'posts/2015/03/IMG_20150215_1424442.jpg'
 ---

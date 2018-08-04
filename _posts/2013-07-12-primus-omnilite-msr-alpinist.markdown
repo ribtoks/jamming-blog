@@ -5,20 +5,13 @@ date: 2013-07-12 20:26:12.000000000 +03:00
 categories:
 - Gear
 tags:
-- alpinist
 - msr
 - omnilite
-- pot
 - primus
 - баняк
 - вогонь
 - вода
-- дно
-- кипіння
-- пропалено
-- сліди
 - тестування
-- час
 author: 'Taras Kushnir'
 feature: 'posts/2013/07/img_0001.jpg'
 ---

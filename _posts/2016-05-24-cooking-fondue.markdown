@@ -7,11 +7,8 @@ categories:
 - Travel
 tags:
 - їжа
-- вино
-- казанок
 - похід
 - рецепт
-- сир
 - фондю
 author: 'Taras Kushnir'
 feature: 'posts/2016/05/20160514_230456.jpg'

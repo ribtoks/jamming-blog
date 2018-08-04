@@ -7,8 +7,8 @@ categories:
 tags:
 - double rainbow
 - tarptent
-- відгук
 - огляд
+- намет
 author: 'Taras Kushnir'
 ---
 

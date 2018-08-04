@@ -7,16 +7,9 @@ categories:
 - Gear
 tags:
 - double rainbow
-- msr reactor
-- tikka rxp
-- trekmates
-- австрійка
-- колобок
-- котигорошко
-- нічна зміна
-- сердечні відношення
-- скелі Довбуша
+- скелі довбуша
 - скелелазіння
+- україна
 author: 'Taras Kushnir'
 feature: 'posts/2014/05/psychodelia.jpg'
 ---

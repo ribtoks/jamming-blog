@@ -7,12 +7,9 @@ categories:
 - Ice climbing
 tags:
 - krukonogi
-- nomic
 - Petzl
-- валентин
-- номік
-- сіпавін
-- сипавин
+- спорядження
+- огляд
 author: 'Taras Kushnir'
 ---
 

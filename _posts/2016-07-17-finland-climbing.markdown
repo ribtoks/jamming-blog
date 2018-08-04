@@ -7,13 +7,10 @@ categories:
 - RockClimbing
 - Travel
 tags:
-- faljberget
 - olhava
 - закладки
-- камалоти
-- комарі
 - озеро
-- тред
+- скелелазіння
 - фінляндія
 author: 'Taras Kushnir'
 feature: 'posts/2016/07/mosquitoes.jpg'

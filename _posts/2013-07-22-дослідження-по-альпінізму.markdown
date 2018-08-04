@@ -7,7 +7,6 @@ categories:
 tags:
 - rescue
 - strike
-- uiaa
 - альпінізм
 - дослідження
 - матеріали

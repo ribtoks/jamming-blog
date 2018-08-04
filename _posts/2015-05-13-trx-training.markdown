@@ -9,6 +9,7 @@ tags:
 - trx
 - інструкція
 - тренування
+- вправи
 author: 'Taras Kushnir'
 feature: 'posts/2015/04/trx1.jpg'
 ---

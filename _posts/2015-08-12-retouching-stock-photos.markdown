@@ -7,9 +7,8 @@ categories:
 tags:
 - редагування
 - ретуш
-- стоки
-- фото
-- фотошоп
+- мікростоки
+- фотографія
 author: 'Taras Kushnir'
 feature: 'posts/2015/08/photoshop-body-evolution_1.jpg'
 ---

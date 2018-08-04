@@ -7,10 +7,8 @@ categories:
 tags:
 - brass
 - dmm
-- nut
-- offset
-- sigma
 - закладки
+- спорядження
 author: 'Taras Kushnir'
 feature: 'posts/2016/07/20160730_131108_cropped.jpg'
 ---

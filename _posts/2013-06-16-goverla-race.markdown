@@ -6,13 +6,10 @@ categories:
 - Running
 - Carpathians
 tags:
-- carpathians
 - goverla
 - race
 - біг
-- бег
 - говерла
-- гонка
 - змагання
 - карпати
 - україна

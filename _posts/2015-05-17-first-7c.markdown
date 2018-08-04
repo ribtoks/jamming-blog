@@ -6,10 +6,8 @@ categories:
 - RockClimbing
 tags:
 - 7с
-- маршрут
-- пролаз
-- скелі Довбуша
-- тарас бульба
+- скелі довбуша
+- скелелазіння
 author: 'Taras Kushnir'
 feature: 'posts/2015/05/DSC_4202.jpg'
 ---

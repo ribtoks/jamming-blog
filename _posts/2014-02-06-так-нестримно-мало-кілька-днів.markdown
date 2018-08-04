@@ -6,11 +6,10 @@ categories:
 - Personal
 - Philosophy
 tags:
-- вірш
+- поезія
 - гори
-- кілька днів
-- нестримно мало
 author: 'Taras Kushnir'
+published: false
 ---
 
 Публікую вірш про гори, подарований мені на відкритці на день народження.

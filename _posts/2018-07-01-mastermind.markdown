@@ -5,9 +5,9 @@ date: 2018-07-01 10:18:41.000000000 +03:00
 categories:
 - RockClimbing
 tags:
-- book
-- strategy
-- review
+- книга
+- стратегія
+- огляд
 author: 'Taras Kushnir'
 feature: 'posts/2018/07/strategy.jpeg'
 ---

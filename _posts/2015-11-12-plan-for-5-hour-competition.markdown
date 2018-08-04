@@ -6,7 +6,6 @@ categories:
 - RockClimbing
 - Training
 tags:
-- isatis
 - болдерінг
 - змагання
 - стратегія

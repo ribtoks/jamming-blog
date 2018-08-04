@@ -5,21 +5,12 @@ date: 2013-06-08 23:51:40.000000000 +03:00
 categories:
 - Gear
 tags:
-- ev2
-- firstlight
-- freestanding
-- lightwave
 - msr
-- nook
-- tent
-- terra nova
-- vaude
-- voyager
 - вибір
 - гори
-- зимова
 - намет
 - палатка
+- огляд
 author: 'Taras Kushnir'
 feature: 'posts/2013/06/img_0030.jpg'
 ---

@@ -7,13 +7,11 @@ categories:
 - Training
 - Стенди
 tags:
-- campus board
-- арсен
 - болдерінг
 - прес
 - скелелазіння
-- складність
 - стенд
+- огляд
 - тренування
 - шнурок
 author: 'Taras Kushnir'

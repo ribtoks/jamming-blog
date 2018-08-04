@@ -5,27 +5,14 @@ date: 2014-08-25 08:21:09.000000000 +03:00
 categories:
 - Gear
 tags:
-- DealExtreme
-- Expedition Duffel
-- Juice CS4
-- Kayland M11+
-- Leatherman
-- Mountain Hardweir
-- msr
-- Petzl Tikka RXP
-- Reactor
-- RidgeRest Solite
+- Petzl
 - Therm-a-Rest
-- баул
-- Зовнішня батарея
-- коврик
+- батарея
 - ліхтарик
 - мультитул
 - огляд
 - пальник
-- споряга
 - спорядження
-- черевики
 author: 'Taras Kushnir'
 feature: 'posts/2014/08/img_00011.jpg'
 ---

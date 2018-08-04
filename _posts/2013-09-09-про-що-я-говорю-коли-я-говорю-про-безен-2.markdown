@@ -8,12 +8,8 @@ categories:
 - ClimbingTrips
 - Mountaineering
 tags:
-- 3а
-- башхаауз
 - безенги
-- джангі
 - дихніауш
-- кош
 - селла
 - сотник
 author: 'Taras Kushnir'

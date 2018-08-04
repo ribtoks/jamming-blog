@@ -5,6 +5,8 @@ date: 2018-03-04 22:56:33.000000000 +02:00
 categories:
 - Photography
 tags:
+- огляд
+- фотографія
 - canon
 - nikon
 - fujifilm

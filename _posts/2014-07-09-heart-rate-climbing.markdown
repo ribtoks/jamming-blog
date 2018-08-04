@@ -6,15 +6,8 @@ categories:
 - RockClimbing
 - Training
 tags:
-- gps
-- heart rate
-- polar
-- quest
 - suunto
-- максимальний
-- пульс
 - пульсомір
-- пульсометр
 - стенд
 - траверс
 - тренування

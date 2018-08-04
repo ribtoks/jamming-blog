@@ -8,7 +8,6 @@ categories:
 - ClimbingTrips
 - Mountaineering
 tags:
-- '2013'
 - безенги
 - екстрем
 - кавказ

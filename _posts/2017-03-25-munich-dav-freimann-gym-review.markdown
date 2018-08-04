@@ -7,15 +7,11 @@ categories:
 - Training
 - Стенди
 tags:
-- абонемент
 - болдерінг
-- зачіпки
-- маршрути
 - мюнхен
 - німеччина
 - скелелазіння
 - стенд
-- шнурок
 author: 'Taras Kushnir'
 feature: 'posts/2017/03/5DM38808_DxO.jpg'
 ---

@@ -8,15 +8,12 @@ categories:
 - ClimbingTrips
 - Mountaineering
 tags:
-- '2013'
 - sis
 - безенги
-- виїзд
 - гори
 - екстрем
-- клуб
 - льодовик
-- стіна
+- альпінізм
 author: 'Taras Kushnir'
 published: false
 ---

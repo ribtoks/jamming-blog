@@ -9,9 +9,6 @@ categories:
 - Travel
 tags:
 - arco
-- bigwall
-- sarca
-- spleen
 - італія
 - альпінізм
 - арко

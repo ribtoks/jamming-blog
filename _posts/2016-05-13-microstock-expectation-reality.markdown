@@ -5,14 +5,12 @@ date: 2016-05-13 09:54:25.000000000 +03:00
 categories:
 - Photography
 tags:
-- shutterstock
 - xpiks
 - гроші
 - заробіток
-- робота
-- стоки
+- інтернет
+- мікростоки
 - фотографія
-- фотостоки
 author: 'Taras Kushnir'
 feature: 'posts/2016/05/scrooge-mcdac.jpg'
 ---

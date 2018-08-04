@@ -7,23 +7,12 @@ categories:
 - Training
 - Стенди
 tags:
-- bachar ladder
-- campus board
-- finger board
-- адреса
 - болдерінг
 - бухта
 - відтяжки
 - львів
-- погулянка
-- прес
 - скелелазіння
-- складність
-- стан
 - стенд
-- турнік
-- шлямбури
-- шнурок
 author: 'Taras Kushnir'
 feature: 'posts/2014/09/DSC_0516_07_53.jpg'
 ---

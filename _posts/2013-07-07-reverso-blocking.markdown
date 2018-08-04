@@ -6,10 +6,10 @@ categories:
 - Gear
 tags:
 - reverso
-- tie off
 - блокування
 - реверсо
 - стакан
+- self-rescue
 author: 'Taras Kushnir'
 ---
 

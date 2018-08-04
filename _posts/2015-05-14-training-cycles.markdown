@@ -6,13 +6,8 @@ categories:
 - RockClimbing
 - Training
 tags:
-- 4 на 4
-- 4х4
-- анаеробна
 - витривалість
-- ондра
 - тренування
-- цикл
 author: 'Taras Kushnir'
 ---
 

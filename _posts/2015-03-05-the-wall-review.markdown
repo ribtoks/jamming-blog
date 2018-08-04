@@ -7,18 +7,12 @@ categories:
 - Training
 - Стенди
 tags:
-- life
-- sport
 - sportlife
 - the wall
-- абонемент
 - болдерінг
-- зачіпки
-- кампус
 - скелелазіння
-- спорт
 - стенд
-- фінгербоард
+- огляд
 author: 'Taras Kushnir'
 feature: 'posts/2015/03/DSC_3419_s.jpg'
 ---

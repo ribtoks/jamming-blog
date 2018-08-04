@@ -9,11 +9,8 @@ categories:
 - Slovakia
 tags:
 - fuga
-- grashov lad
-- Ice climbing
 - Slovakia
 - вертикаль
-- високі татри
 - льодолазіння
 - непогода
 - словаччина

@@ -5,18 +5,11 @@ date: 2017-04-26 19:26:39.000000000 +03:00
 categories:
 - Gear
 tags:
-- aperture
-- boot bananas
-- la sportiva
 - msr
-- otaki
-- patagonia
 - гідратор
-- магнезійка
 - магнезія
 - рюкзак
 - скельники
-- фляга
 author: 'Taras Kushnir'
 feature: 'posts/2017/04/jam-gear-review-2017.jpg'
 ---

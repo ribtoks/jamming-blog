@@ -6,9 +6,7 @@ categories:
 - Photography
 tags:
 - книги
-- рекомендації
 - фотографія
-- читання
 author: 'Taras Kushnir'
 feature: 'posts/2015/10/2014_09_life-of-pix-free-stock-photos-New-York-books-movies-Bookshop.jpg'
 ---

@@ -5,12 +5,10 @@ date: 2015-01-08 00:54:50.000000000 +02:00
 categories:
 - Photography
 tags:
-- illustration
-- keyword
-- microstock
-- photo
+- фотографія
 - software
-- stock
+- мікростоки
+- заробіток
 - xpiks
 author: 'Taras Kushnir'
 feature: 'posts/2015/01/seo-keywords.jpg'

@@ -6,9 +6,8 @@ categories:
 - Food
 - Travel
 tags:
-- економія
-- приготування
-- рис
+- їжа
+- рецепт
 author: 'Taras Kushnir'
 ---
 

@@ -5,9 +5,10 @@ date: 2014-05-18 12:45:48.000000000 +03:00
 categories:
 - Running
 tags:
-- '2014'
-- gorgany lviv
 - півмарафон
+- біг
+- львів
+- україна
 author: 'Taras Kushnir'
 feature: 'posts/2014/05/halfmarathon.jpg'
 ---

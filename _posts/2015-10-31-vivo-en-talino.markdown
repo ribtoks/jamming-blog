@@ -6,8 +6,7 @@ categories:
 - Personal
 - Travel
 tags:
-- життя
-- новини
+- естонія
 - таллінн
 author: 'Taras Kushnir'
 ---

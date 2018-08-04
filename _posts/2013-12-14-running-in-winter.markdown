@@ -8,9 +8,7 @@ categories:
 - Running
 tags:
 - біг
-- втома
 - зима
-- лід
 - сніг
 author: 'Taras Kushnir'
 ---

@@ -5,9 +5,9 @@ date: 2018-07-17 19:08:32.000000000 -07:00
 categories:
 - Mountaineering
 tags:
-- climbing
-- mountains
-- usa
+- вулкан
+- альпінізм
+- сша
 - solo
 author: 'Taras Kushnir'
 feature: 'posts/2018/07/disappointment_cleaver.jpg'

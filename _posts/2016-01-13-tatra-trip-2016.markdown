@@ -8,11 +8,10 @@ categories:
 - Mountaineering
 - Slovakia
 tags:
-- climbing
-- high tatras
-- hrebienok
-- Ice climbing
-- tatras
+- альпінізм
+- високі татри
+- льодолазіння
+- словаччина
 author: 'Taras Kushnir'
 feature: 'posts/2016/01/high_tatras.jpg'
 ---

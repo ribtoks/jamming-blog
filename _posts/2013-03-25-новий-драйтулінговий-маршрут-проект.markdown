@@ -8,8 +8,6 @@ categories:
 - Ice climbing
 - Mountaineering
 tags:
-- Drytooling
-- lviv
 - драйтулінг
 - львів
 - чортові скелі

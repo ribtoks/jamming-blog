@@ -6,16 +6,10 @@ categories:
 - Running
 - Training
 tags:
-- ambit
 - movescount
-- polar
-- quest
 - runkeeper
-- running
 - suunto
-- track pod
-- training
-- watch
+- тренування
 - годинник
 author: 'Taras Kushnir'
 feature: 'posts/2016/06/movescount_100_moves.jpg'

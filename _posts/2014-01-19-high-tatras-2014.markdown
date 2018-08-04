@@ -9,11 +9,7 @@ categories:
 - Mountaineering
 - Slovakia
 tags:
-- m7
-- penelopa
-- veverkov
 - vysoke tatry
-- білікова хата
 - драйтулінг
 - льодолазіння
 - смоковець

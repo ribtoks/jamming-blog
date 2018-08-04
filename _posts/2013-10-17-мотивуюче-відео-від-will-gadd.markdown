@@ -7,10 +7,7 @@ categories:
 - Running
 tags:
 - Arcteryx
-- gadd
-- move
-- will
-- рух
+- Will Gadd
 author: 'Taras Kushnir'
 ---
 

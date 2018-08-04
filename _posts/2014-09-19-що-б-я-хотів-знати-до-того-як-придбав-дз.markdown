@@ -7,17 +7,11 @@ categories:
 tags:
 - canon
 - dslr
-- iso
-- nef
 - nikon
-- raw
 - автофокус
-- викрутка
 - діафрагма
-- дзеркальна камера
-- кроп
+- фотографія
 - об'єктив
-- фокусна відстань
 author: 'Taras Kushnir'
 feature: 'posts/2014/09/IMG_20140907_080930.jpg'
 ---

@@ -6,15 +6,9 @@ categories:
 - Food
 tags:
 - sis
-- додатки
 - електроліти
-- напої
-- сік
-- спорт
-- спортсмен
 - харчування
-- чавко
-- яблука
+- здоров'я
 author: 'Taras Kushnir'
 feature: 'posts/2015/03/powerade-415710_1280.jpg'
 ---

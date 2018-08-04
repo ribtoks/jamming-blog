@@ -5,15 +5,9 @@ date: 2013-10-29 22:28:10.000000000 +02:00
 categories:
 - Gear
 tags:
-- equipment
-- fail
-- Jacket
-- morpheus
-- Mountain
-- деталі
-- зроблено
-- погано
-- якість
+- спорядження
+- Mountain Equipment
+- огляд
 author: 'Taras Kushnir'
 ---
 

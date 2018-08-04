@@ -7,9 +7,8 @@ categories:
 - Training
 tags:
 - біг
-- бег
 - техніка
-- ци
+- ци-біг
 author: 'Taras Kushnir'
 ---
 

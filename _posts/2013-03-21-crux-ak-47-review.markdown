@@ -5,26 +5,11 @@ date: 2013-03-21 09:17:12.000000000 +02:00
 categories:
 - Gear
 tags:
-- '47'
-- ak
-- alpinism
-- backpack
-- berghaus
-- cordura
-- crux
-- dyneema
-- kevlar
-- millet
-- mountaineering
-- omm
-- podsacs
-- review
+- ak 47
 - альпінізм
-- вибір
 - надійний
 - огляд
 - рюкзак
-- штурмовий
 author: 'Taras Kushnir'
 ---
 

@@ -6,11 +6,8 @@ categories:
 - Bezengi
 tags:
 - android
-- apk
 - безенги
 - маршрути
-- список
-- фільтр
 author: 'Taras Kushnir'
 ---
 

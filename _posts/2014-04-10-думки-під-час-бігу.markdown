@@ -7,12 +7,10 @@ categories:
 - Personal
 - Philosophy
 - Running
-- Training
 tags:
 - біг
-- бігун
-- голова
 - думки
+- психологія
 author: 'Taras Kushnir'
 ---
 

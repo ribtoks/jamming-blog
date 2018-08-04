@@ -5,11 +5,7 @@ date: 2013-09-29 23:27:44.000000000 +03:00
 categories:
 - Gear
 tags:
-- and
-- die
-- fast
-- light
-- легкоход
+- спорядження
 author: 'Taras Kushnir'
 ---
 

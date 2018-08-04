@@ -6,7 +6,6 @@ categories:
 - Travel
 tags:
 - естонія
-- столиця
 - таллінн
 author: 'Taras Kushnir'
 ---

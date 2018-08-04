@@ -6,11 +6,8 @@ categories:
 - RockClimbing
 - Training
 tags:
-- Дейв
-- МакЛеод
 - пальці
 - тренування
-- фігнерборд
 - фінгербоард
 author: 'Taras Kushnir'
 ---

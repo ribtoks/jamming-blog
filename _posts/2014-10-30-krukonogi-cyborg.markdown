@@ -8,12 +8,11 @@ categories:
 - Ice climbing
 tags:
 - Black Diamond
-- crampons
 - Cyborg
 - krukonogi
 - зуби
 - кішки
-- порівняння
+- огляд
 author: 'Taras Kushnir'
 feature: 'posts/2014/10/DSC_1443.jpg'
 ---

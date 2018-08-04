@@ -10,9 +10,7 @@ categories:
 tags:
 - безенги
 - конкурс
-- призи
-- справедливість
-- фото
+- фотографія
 author: 'Taras Kushnir'
 feature: 'posts/2015/04/DSC_3658.jpg'
 ---

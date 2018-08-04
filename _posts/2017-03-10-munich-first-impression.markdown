@@ -6,9 +6,8 @@ categories:
 - Philosophy
 - Travel
 tags:
-- munich
-- travel
 - мюнхен
+- німеччина
 author: 'Taras Kushnir'
 feature: 'posts/2017/03/Frauenkirche_Munich_-_View_from_Peterskirche_Tower2.jpg'
 ---

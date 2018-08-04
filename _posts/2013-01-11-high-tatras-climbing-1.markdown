@@ -8,15 +8,11 @@ categories:
 - Mountaineering
 - Slovakia
 tags:
-- Ice climbing
-- pod lesom
 - Slovakia
-- stary smokovec
 - tatry
-- vysoke tatry
-- високі татри
 - льодолазіння
 - словаччина
+- татри
 - старий смоковець
 author: 'Taras Kushnir'
 feature: 'posts/2013/01/lady.jpg'

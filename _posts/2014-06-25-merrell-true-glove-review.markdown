@@ -7,13 +7,9 @@ categories:
 - Running
 tags:
 - merrell
-- running
-- true glove
 - біг
 - огляд
-- підошва
 - сезон
-- стан
 author: 'Taras Kushnir'
 feature: 'posts/2014/06/img_0001_011.jpg'
 ---

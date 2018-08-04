@@ -7,11 +7,8 @@ categories:
 - RockClimbing
 - Training
 tags:
-- зв'язки
-- палець
-- пальців
 - скелелазіння
-- суглоб
+- здоров'я
 - травми
 author: 'Taras Kushnir'
 ---

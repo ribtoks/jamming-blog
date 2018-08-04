@@ -8,7 +8,6 @@ categories:
 tags:
 - arno ilgner
 - espresso lessons
-- the rock warriors way
 - вправи
 - зрив
 - психологія
