@@ -5,7 +5,6 @@ date: 2014-12-01 13:10:44.000000000 +02:00
 categories:
 - RockClimbing
 - Training
-- Стенди
 tags:
 - змагання
 - тернопіль

@@ -3,8 +3,6 @@ layout: post
 title: Думки під час бігу
 date: 2014-04-10 15:58:46.000000000 +03:00
 categories:
-- Humour
-- Personal
 - Philosophy
 - Running
 tags:

@@ -3,7 +3,6 @@ layout: post
 title: Чому мені подобається бігати зимою
 date: 2013-12-14 22:27:15.000000000 +02:00
 categories:
-- Personal
 - Philosophy
 - Running
 tags:

@@ -5,7 +5,6 @@ date: 2016-09-20 11:55:43.000000000 +03:00
 categories:
 - ClimbingTrips
 - RockClimbing
-- Travel
 tags:
 - agelsjon
 - стокгольм

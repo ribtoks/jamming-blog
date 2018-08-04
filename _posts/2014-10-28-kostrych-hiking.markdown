@@ -4,7 +4,6 @@ title: Похід на хребет Кострич
 date: 2014-10-28 12:21:36.000000000 +02:00
 categories:
 - Carpathians
-- ClimbingTrips
 - Hiking
 tags:
 - веснарка

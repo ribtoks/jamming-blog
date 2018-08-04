@@ -5,7 +5,6 @@ date: 2014-02-16 21:07:47.000000000 +02:00
 categories:
 - RockClimbing
 - Training
-- Стенди
 tags:
 - болдерінг
 - бухта

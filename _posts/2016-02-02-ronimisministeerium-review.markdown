@@ -4,7 +4,6 @@ title: 'Огляд скелелазних стендів у Таллінні: Ro
 date: 2016-02-02 01:50:50.000000000 +02:00
 categories:
 - RockClimbing
-- Training
 - Стенди
 tags:
 - ronimisministeerium

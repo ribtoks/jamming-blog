@@ -4,8 +4,7 @@ title: Льодолазіння в Австрії - долина Pitztal
 date: 2018-01-05 19:09:48.000000000 +02:00
 categories:
 - Ice climbing
-- Mountaineering
-- Travel
+- ClimbingTrips
 tags:
 - pitztal
 - австрія

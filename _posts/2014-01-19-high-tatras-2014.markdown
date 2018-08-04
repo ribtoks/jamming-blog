@@ -4,10 +4,7 @@ title: Зимовий виїзд у Високі Татри 2014
 date: 2014-01-19 23:46:26.000000000 +02:00
 categories:
 - ClimbingTrips
-- Drytooling
 - Ice climbing
-- Mountaineering
-- Slovakia
 tags:
 - vysoke tatry
 - драйтулінг

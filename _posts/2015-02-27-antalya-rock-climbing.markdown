@@ -4,7 +4,6 @@ title: Анталія скелелазна
 date: 2015-02-27 11:42:09.000000000 +02:00
 categories:
 - RockClimbing
-- Travel
 - Стенди
 tags:
 - geyikbairi

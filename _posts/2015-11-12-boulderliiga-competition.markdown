@@ -4,7 +4,6 @@ title: Фінське змагання Boulderliiga
 date: 2015-11-12 01:22:15.000000000 +02:00
 categories:
 - RockClimbing
-- Training
 - Стенди
 tags:
 - boulderring

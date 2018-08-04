@@ -5,9 +5,9 @@ date: 2018-02-22 22:05:21 +03:00
 categories:
 - RockClimbing
 - Training
-- Translation
 tags:
 - витривалість
+- переклад
 - скелелазіння
 - блог
 author: 'Taras Kushnir'

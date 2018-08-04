@@ -3,8 +3,6 @@ layout: post
 title: Про що я говорю, коли я говорю про Безенги [Частина друга і остання]
 date: 2013-09-09 22:50:44.000000000 +03:00
 categories:
-- Bezengi
-- Caucasus
 - ClimbingTrips
 - Mountaineering
 tags:

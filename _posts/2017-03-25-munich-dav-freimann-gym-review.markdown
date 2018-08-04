@@ -4,7 +4,6 @@ title: 'Огляд скелелазних стендів у Мюнхені: DAV 
 date: 2017-03-25 21:44:48.000000000 +02:00
 categories:
 - RockClimbing
-- Training
 - Стенди
 tags:
 - болдерінг

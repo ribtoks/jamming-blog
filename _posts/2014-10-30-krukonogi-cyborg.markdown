@@ -5,7 +5,6 @@ date: 2014-10-30 23:28:45.000000000 +02:00
 categories:
 - Drytooling
 - Gear
-- Ice climbing
 tags:
 - Black Diamond
 - Cyborg

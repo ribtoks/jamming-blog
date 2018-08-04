@@ -5,7 +5,6 @@ date: 2016-07-17 21:25:43.000000000 +03:00
 categories:
 - ClimbingTrips
 - RockClimbing
-- Travel
 tags:
 - olhava
 - закладки

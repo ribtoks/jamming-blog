@@ -3,7 +3,6 @@ layout: post
 title: 'Альпінізм в Арко'
 date: 2018-04-22 18:43:09.000000000 +02:00
 categories:
-- Arco
 - RockClimbing
 - Mountaineering
 tags:

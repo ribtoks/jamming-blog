@@ -5,10 +5,7 @@ date: 2013-01-11 22:06:58.000000000 +02:00
 categories:
 - ClimbingTrips
 - Ice climbing
-- Mountaineering
-- Slovakia
 tags:
-- Slovakia
 - tatry
 - льодолазіння
 - словаччина

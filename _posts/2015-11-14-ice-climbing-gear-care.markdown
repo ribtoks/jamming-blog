@@ -3,7 +3,6 @@ layout: post
 title: Догляд за льодолазним спорядженням
 date: 2015-11-14 14:22:57.000000000 +02:00
 categories:
-- Drytooling
 - Gear
 - Ice climbing
 tags:

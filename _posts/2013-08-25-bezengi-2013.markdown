@@ -3,8 +3,6 @@ layout: post
 title: Безенги 2013
 date: 2013-08-25 22:32:36.000000000 +03:00
 categories:
-- Bezengi
-- Caucasus
 - ClimbingTrips
 - Mountaineering
 tags:

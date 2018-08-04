@@ -4,9 +4,7 @@ title: Довбушоделія. Декада
 date: 2015-05-13 10:38:45.000000000 +03:00
 categories:
 - ClimbingTrips
-- Personal
 - RockClimbing
-- Travel
 tags:
 - гроза
 - маршрути

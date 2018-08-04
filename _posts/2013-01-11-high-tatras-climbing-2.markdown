@@ -5,14 +5,8 @@ date: 2013-01-11 22:47:15.000000000 +02:00
 categories:
 - ClimbingTrips
 - Ice climbing
-- Mountaineering
-- Slovakia
 tags:
-- fuga
-- Slovakia
-- вертикаль
 - льодолазіння
-- непогода
 - словаччина
 - татранська полянка
 - татри

@@ -5,9 +5,9 @@ date: 2017-04-07 23:03:43.000000000 +03:00
 categories:
 - RockClimbing
 - Training
-- Translation
 tags:
 - болдерінг
+- переклад
 - стратегія
 - скелелазіння
 - тренування

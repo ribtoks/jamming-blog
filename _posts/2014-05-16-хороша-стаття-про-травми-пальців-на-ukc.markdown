@@ -5,7 +5,6 @@ date: 2014-05-16 09:50:33.000000000 +03:00
 categories:
 - Medicine
 - RockClimbing
-- Training
 tags:
 - скелелазіння
 - здоров'я

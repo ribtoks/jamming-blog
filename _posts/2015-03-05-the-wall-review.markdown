@@ -4,7 +4,6 @@ title: 'Огляд скелелазних стендів у Львові: сте
 date: 2015-03-05 23:26:10.000000000 +02:00
 categories:
 - RockClimbing
-- Training
 - Стенди
 tags:
 - sportlife

@@ -3,10 +3,7 @@ layout: post
 title: Перший драйтулінговий маршрут [проект] "Топлес" на Чортових Скелях у Львові
 date: 2013-03-25 22:09:20.000000000 +02:00
 categories:
-- ClimbingTrips
 - Drytooling
-- Ice climbing
-- Mountaineering
 tags:
 - драйтулінг
 - львів

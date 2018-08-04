@@ -3,15 +3,14 @@ layout: post
 title: Вправи для тренувань по скелелазінню
 date: 2013-11-09 22:55:07.000000000 +02:00
 categories:
-- RockClimbing
 - Training
-- Translation
 tags:
 - болдерінг
 - вправи
 - скелелазіння
 - стенд
 - тренування
+- переклад
 author: 'Taras Kushnir'
 ---
 

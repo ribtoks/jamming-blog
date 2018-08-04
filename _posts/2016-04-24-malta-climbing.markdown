@@ -5,7 +5,6 @@ date: 2016-04-24 21:56:59.000000000 +03:00
 categories:
 - ClimbingTrips
 - RockClimbing
-- Travel
 tags:
 - deep water solo
 - dws

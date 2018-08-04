@@ -5,7 +5,6 @@ date: 2014-11-03 11:47:48.000000000 +02:00
 categories:
 - RockClimbing
 - Training
-- Стенди
 tags:
 - болдерінг
 - змагання
