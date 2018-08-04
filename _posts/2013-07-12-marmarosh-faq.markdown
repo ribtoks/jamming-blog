@@ -3,7 +3,6 @@ layout: post
 title: Коротенький FAQ про Мармароси
 date: 2013-07-12 21:28:58.000000000 +03:00
 categories:
-- Carpathians
 - Hiking
 tags:
 - faq

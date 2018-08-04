@@ -3,7 +3,7 @@ layout: post
 title: 'Блог Jamming святкує ювілей: 1 рік онлайн!'
 date: 2015-09-14 18:40:06.000000000 +03:00
 categories:
-- Jamming
+- Misc
 tags:
 - jamming
 - блог

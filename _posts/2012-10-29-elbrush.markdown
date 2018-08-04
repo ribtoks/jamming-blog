@@ -3,9 +3,7 @@ layout: post
 title: Ельбрус 2012
 date: 2012-10-29 21:22:19.000000000 +02:00
 categories:
-- Caucasus
 - ClimbingTrips
-- Elbrus
 - Mountaineering
 tags:
 - '5642'

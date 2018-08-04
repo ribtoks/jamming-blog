@@ -3,7 +3,6 @@ layout: post
 title: Хычины по-безенгийски (рецепт)
 date: 2012-10-26 20:16:38.000000000 +03:00
 categories:
-- Bezengi
 - Food
 tags:
 - безенги
@@ -12,6 +11,7 @@ tags:
 - хичины
 - хычины
 author: 'Taras Kushnir'
+published: false
 ---
 
 Наводжу рецепт хичінів, які нам так подобались в Безенгах.
