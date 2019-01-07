@@ -12,6 +12,7 @@ tags:
 - змагання
 - карпати
 - україна
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2013/06/img_0033.jpg'
 ---

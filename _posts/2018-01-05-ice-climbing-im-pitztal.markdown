@@ -10,8 +10,8 @@ tags:
 - австрія
 - альпи
 - лід
-- льодобур
 - льодолазіння
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2018/01/5DM32641.jpeg'
 ---

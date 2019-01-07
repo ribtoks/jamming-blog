@@ -14,6 +14,7 @@ tags:
 - клуб
 - курсанти
 - школа альпінізму
+- travel
 author: 'Taras Kushnir'
 published: false
 ---

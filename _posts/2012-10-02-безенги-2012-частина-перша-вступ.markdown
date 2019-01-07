@@ -13,6 +13,7 @@ tags:
 - екстрем
 - клуб
 - школа альпінізму
+- travel
 author: 'Taras Kushnir'
 published: false
 ---

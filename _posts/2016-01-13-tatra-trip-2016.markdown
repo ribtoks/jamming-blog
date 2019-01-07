@@ -10,6 +10,7 @@ tags:
 - високі татри
 - льодолазіння
 - словаччина
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2016/01/high_tatras.jpg'
 ---

@@ -11,6 +11,7 @@ tags:
 - кострич
 - похід
 - чорногора
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2014/10/DSC_0970_x_s.jpg'
 ---

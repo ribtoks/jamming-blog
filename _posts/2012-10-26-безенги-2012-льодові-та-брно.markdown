@@ -14,6 +14,7 @@ tags:
 - курсанти
 - льодові заняття
 - ночовки
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2012/10/IMG_1925.jpg'
 published: false

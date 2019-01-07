@@ -16,6 +16,7 @@ tags:
 - мафія
 - теплий кут
 - укю
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2012/10/IMG_1819.jpg'
 published: false

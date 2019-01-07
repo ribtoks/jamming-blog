@@ -12,6 +12,7 @@ tags:
 - скелелазіння
 - сплін
 - стіна
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2017/04/arco-garda.jpg'
 ---

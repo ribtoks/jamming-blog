@@ -11,6 +11,7 @@ tags:
 - скелелазіння
 - стенд
 - туреччина
+- travel
 author: 'Taras Kushnir'
 ---
 

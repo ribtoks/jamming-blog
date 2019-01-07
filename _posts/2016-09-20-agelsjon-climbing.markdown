@@ -10,6 +10,7 @@ tags:
 - стокгольм
 - швеція
 - скелелазіння
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2016/09/5DM38111_3_DxO_scaled.jpg'
 ---

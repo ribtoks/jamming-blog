@@ -11,6 +11,7 @@ tags:
 - озеро
 - скелелазіння
 - фінляндія
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2016/07/mosquitoes.jpg'
 ---

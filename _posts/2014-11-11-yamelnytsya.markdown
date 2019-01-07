@@ -9,6 +9,7 @@ tags:
 - болдерінг
 - скелелазіння
 - ямельниця
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2014/11/DSC_1716_x_small.jpg'
 ---

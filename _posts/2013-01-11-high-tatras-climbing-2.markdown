@@ -10,6 +10,7 @@ tags:
 - словаччина
 - татранська полянка
 - татри
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2013/01/IMG_2194.jpg'
 ---

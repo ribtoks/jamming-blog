@@ -10,6 +10,7 @@ tags:
 - скелі довбуша
 - скелелазіння
 - україна
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2014/05/psychodelia.jpg'
 ---

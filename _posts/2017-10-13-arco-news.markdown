@@ -10,6 +10,7 @@ tags:
 - grisu
 - скелазіння
 - італія
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2017/10/37474150771_c5099a7285_o.jpg'
 ---

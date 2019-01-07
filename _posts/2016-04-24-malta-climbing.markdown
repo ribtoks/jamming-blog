@@ -11,6 +11,7 @@ tags:
 - мальта
 - скелелазіння
 - тренування
+- travel
 author: 'Taras Kushnir'
 ---
 

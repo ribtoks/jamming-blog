@@ -11,6 +11,7 @@ tags:
 - словаччина
 - татри
 - старий смоковець
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2013/01/lady.jpg'
 ---

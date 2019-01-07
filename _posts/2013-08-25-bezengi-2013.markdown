@@ -10,6 +10,7 @@ tags:
 - екстрем
 - кавказ
 - фото
+- travel
 author: 'Taras Kushnir'
 published: false
 ---

@@ -17,6 +17,7 @@ tags:
 - міссес-кош
 - таланівка
 - школа альпінізму
+- travel
 author: 'Taras Kushnir'
 published: false
 ---

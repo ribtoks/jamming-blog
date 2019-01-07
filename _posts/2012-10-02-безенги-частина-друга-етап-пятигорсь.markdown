@@ -15,6 +15,7 @@ tags:
 - хічіни
 - хичіни
 - школа альпінізму
+- travel
 author: 'Taras Kushnir'
 published: false
 ---

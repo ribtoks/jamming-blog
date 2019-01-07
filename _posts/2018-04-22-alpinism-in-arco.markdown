@@ -10,6 +10,7 @@ tags:
 - італія
 - тренування
 - місткість
+- travel
 author: 'Taras Kushnir'
 feature: 'posts/2018/04/monte-colodri-arco.jpg'
 ---
