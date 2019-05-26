@@ -4,7 +4,7 @@ description: 'блог про альпінізм, біг та подорожі'
 # stuff before 
 baseurl: ""
 
-url: "http://jamming.com.ua" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # "http://jamming.com.ua" # the base hostname & protocol for your site, e.g. http://example.com
 
 #email_username: your-email@domain.com #Your email address
 twitter:
